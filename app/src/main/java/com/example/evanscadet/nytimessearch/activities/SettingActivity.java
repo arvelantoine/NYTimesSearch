@@ -23,6 +23,7 @@ import java.util.Calendar;
 
 public class SettingActivity extends AppCompatActivity implements DatePickerDialog.OnDateSetListener {
 
+
     Spinner spinner;
 
     @Override

@@ -60,8 +60,8 @@
         android:id="@+id/cbSports"
         android:checked="false"
         android:layout_below="@+id/checkBox2"
-        android:layout_alignRight="@+id/button"
-        android:layout_alignEnd="@+id/button" />
+        android:layout_alignLeft="@+id/cbArts"
+        android:layout_alignStart="@+id/cbArts" />
 
     <TextView
         android:layout_width="wrap_content"
